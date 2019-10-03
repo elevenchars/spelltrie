@@ -1,0 +1,38 @@
+A cat
+A bat
+A catch
+A batch
+M
+S cat
+S catcher
+S batch
+S cat
+S catch
+S bat
+S rat
+M
+A zoo
+A zoom
+M
+S rat
+S zoo
+S zo
+S zooo
+S zoom
+A alltheworldsastage
+A azazazazazazazazazaz
+M
+A zoo
+A rat
+A cat
+A mouse
+S all
+S stage
+S azazazazazazazazaza
+S alltheworldsastages
+S alltheworldsastage
+S azazazazazazazazazaz
+S zoo
+S rat
+M
+E

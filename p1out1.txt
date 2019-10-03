@@ -1,0 +1,37 @@
+cat inserted
+bat inserted
+catch inserted
+batch inserted
+Membership is    4
+cat found
+catcher not found
+batch found
+cat found
+catch found
+bat found
+rat not found
+Membership is    4
+zoo inserted
+zoom inserted
+Membership is    6
+rat not found
+zoo found
+zo not found
+zooo not found
+zoom found
+alltheworldsastage inserted
+azazazazazazazazazaz inserted
+Membership is    8
+zoo already exists
+rat inserted
+cat already exists
+mouse inserted
+all not found
+stage not found
+azazazazazazazazaza not found
+alltheworldsastages not found
+alltheworldsastage found
+azazazazazazazazazaz found
+zoo found
+rat found
+Membership is   10
